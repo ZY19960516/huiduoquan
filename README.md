@@ -59,13 +59,7 @@
   
 ## 已上线案例：
 ### 外卖购物 小程序：多实惠省钱够
-![二维码](https://github.com/iinine/pddmini-coupons/blob/main/2012.jpg)
-
-### 日历 小程序：轮休日历
-![二维码](https://github.com/iinine/pddmini-coupons/blob/main/2013.jpg)
-
-## 更多教程可以关注公众号：花儿青春   
-![二维码](https://github.com/iinine/pddmini-coupons/blob/main/2014.jpg)
+<!-- ![二维码](https://github.com/iinine/pddmini-coupons/blob/main/2012.jpg) -->
 
 ## 感谢
 非常感谢原作者   https://github.com/hedongshu/miniapp-coupons 提供的代码
