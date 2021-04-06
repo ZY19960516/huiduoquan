@@ -20,7 +20,7 @@ App({
       let pages = getCurrentPages(),
         //获取当前页面的对象
         view = pages[pages.length - 1]
-      if (view) {
+      if (view && view.__route__ != 'pages/detail/detail') {
         view.onShareAppMessage = function () {
           //你的分享配置
           return {

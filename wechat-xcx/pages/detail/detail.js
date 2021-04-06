@@ -9,6 +9,7 @@ Page({
     goods_id: [],
     search_id: "",
     detail: null,
+    isonShareAppMessage:true
   },
 
   /**
@@ -67,7 +68,7 @@ Page({
   onShareAppMessage: function(e) {
     let path = '/pages/detail/detail?gid=' + this.data.goods_id + '&search_id=' + this.data.search_id;
     return {
-      title: "这里有好多拼多多券饿了么美团外卖券滴滴花小猪打车券可以领取哦~",
+      title: "这里有好多拼多多券饿了么美团外卖券可以领取哦~",
       path: path,
 　　　imageUrl: this.data.detail.goods_thumbnail_url,
     };
@@ -75,7 +76,7 @@ Page({
   onShareTimeline: function (res) {
     let path = '/pages/detail/detail?gid=' + this.data.goods_id + '&search_id=' + this.data.search_id;
     return {
-      title: '这里有好多拼多多券饿了么美团外卖券滴滴花小猪打车券可以领取哦~',
+      title: '这里有好多拼多多券饿了么美团外卖券可以领取哦~',
       path: path,
 　　　imageUrl: this.data.detail.goods_thumbnail_url,
       query: '点外卖打车买东西领券多实惠省钱'
