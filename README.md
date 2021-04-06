@@ -32,7 +32,7 @@
 ### 开发
 代码非常的简单，就是列表，列表里面是跳转链接，点哪领哪个券
 
-小程序名：多实惠省钱购
+小程序名：惠多券
 具体功能可以用微信扫码看看
 
 ### 其他问题
@@ -58,8 +58,8 @@
   不想写代码的话可以用api测试工具生成推广链接：api测试工具
   
 ## 已上线案例：
-### 外卖购物 小程序：多实惠省钱够
-<!-- ![二维码](https://github.com/iinine/pddmini-coupons/blob/main/2012.jpg) -->
+### 外卖购物 小程序：惠多券
+![二维码](https://github.com/ZY19960516/-/blob/master/hdj.jpg)
 
 ## 感谢
 非常感谢原作者   https://github.com/hedongshu/miniapp-coupons 提供的代码
